@@ -1,3 +1,7 @@
+# license amendments from the place the code was put:
+
+[By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users)
+
 # Winamp Collaborative License (WCL) Version 1.0
 
 This License governs the use, modification, and distribution of the Winamp software. 
