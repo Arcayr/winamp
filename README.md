@@ -1,4 +1,4 @@
-\> implying for one second i'm going to ever listen to someone using a doftware license like that in the first place, let alone one immediately nullified by tos of the place you put the code. nice work aol lite.
+\> implying for one second i'm going to ever listen to someone using a software license like that in the first place, let alone one immediately nullified by tos of the place you put the code. nice work aol lite.
 
 # Winamp
 
